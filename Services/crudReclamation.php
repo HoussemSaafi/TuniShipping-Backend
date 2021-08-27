@@ -1,7 +1,7 @@
 <?php
 //include("../classes/Reclamation.php");
 //include("../classes/Repository.php");
-require_once('../../Administrator/classes/ConnexionBD.php');
+require_once('../classes/ConnexionBD.php');
 
 
 class crudReclamation {
